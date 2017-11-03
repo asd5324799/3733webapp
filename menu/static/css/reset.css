@@ -1,0 +1,6 @@
+*{ margin: 0; padding: 0;}
+.left { float: left;}
+.right { float: right;}
+input { border: none; outline: none;}
+input:-moz-placeholder {color: #8a8a8a;}
+::-webkit-input-placeholder {color: #8a8a8a;}
